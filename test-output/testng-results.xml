@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6404" started-at="2023-08-16T17:54:03Z" finished-at="2023-08-16T17:54:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6404" started-at="2023-08-16T17:54:03Z" finished-at="2023-08-16T17:54:10Z">
+      <class name="com.weatherdata.Demo.WeatherPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.weatherdata.Demo.WeatherPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="25231" started-at="2023-08-16T17:53:38Z" finished-at="2023-08-16T17:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="weather_data()[pri:1, instance:com.weatherdata.Demo.WeatherPageTest@6ddf90b0]" name="weather_data" duration-ms="5072" started-at="2023-08-16T17:54:04Z" finished-at="2023-08-16T17:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weather_data -->
+        <test-method status="PASS" signature="weather_in_C()[pri:2, instance:com.weatherdata.Demo.WeatherPageTest@6ddf90b0]" name="weather_in_C" duration-ms="913" started-at="2023-08-16T17:54:09Z" finished-at="2023-08-16T17:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weather_in_C -->
+        <test-method status="PASS" signature="test_PageData()[pri:3, instance:com.weatherdata.Demo.WeatherPageTest@6ddf90b0]" name="test_PageData" duration-ms="207" started-at="2023-08-16T17:54:10Z" finished-at="2023-08-16T17:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_PageData -->
+        <test-method status="PASS" signature="exit_Driver()[pri:0, instance:com.weatherdata.Demo.WeatherPageTest@6ddf90b0]" name="exit_Driver" is-config="true" duration-ms="1299" started-at="2023-08-16T17:54:10Z" finished-at="2023-08-16T17:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_Driver -->
+      </class> <!-- com.weatherdata.Demo.WeatherPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
